@@ -2,7 +2,6 @@
 //  Numbers.swift
 //
 //  Created by Julian Jans on 10/11/2016.
-//  Copyright © 2016 Julian Jans. All rights reserved.
 //
 
 import Foundation

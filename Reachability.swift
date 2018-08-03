@@ -2,7 +2,6 @@
 //  Reachability.swift
 //
 //  Created by Julian Jans on 11/23/16.
-//  Copyright © 2016 Julian Jans. All rights reserved.
 //
 
 import Foundation

@@ -2,7 +2,6 @@
 //  UIImage.swift
 //
 //  Created by Julian Jans on 02/08/2018.
-//  Copyright © 2018 Julian Jans. All rights reserved.
 //
 
 import Foundation

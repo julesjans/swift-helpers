@@ -2,7 +2,6 @@
 //  Date.swift
 //
 //  Created by Julian Jans on 02/08/2018.
-//  Copyright © 2016 Julian Jans. All rights reserved.
 //
 
 import Foundation

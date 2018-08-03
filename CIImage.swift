@@ -2,7 +2,6 @@
 //  CIImage.swift
 //
 //  Created by Julian Jans on 11/10/2017.
-//  Copyright © 2017 Julian Jans. All rights reserved.
 //
 
 import Foundation
